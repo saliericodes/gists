@@ -41,6 +41,16 @@
   },
   {
     "metadata": {
+      "id": "121396ad-85a1-45ec-9fd1-d95028a847f5",
+      "publisherId": "naumovs.color-highlight",
+      "publisherDisplayName": "naumovs"
+    },
+    "name": "color-highlight",
+    "publisher": "naumovs",
+    "version": "2.5.0"
+  },
+  {
+    "metadata": {
       "id": "9d8c32ab-354c-4daf-a9bf-20b633734435",
       "publisherId": "usernamehw.errorlens",
       "publisherDisplayName": "usernamehw"
