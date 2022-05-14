@@ -71,6 +71,16 @@
   },
   {
     "metadata": {
+      "id": "4eae7368-ec63-429d-8449-57a7df5e2117",
+      "publisherId": "ms-vscode.live-server",
+      "publisherDisplayName": "ms-vscode"
+    },
+    "name": "live-server",
+    "publisher": "ms-vscode",
+    "version": "0.2.12"
+  },
+  {
+    "metadata": {
       "id": "b63c44fd-0457-4696-99e9-dbfdf70d77de",
       "publisherId": "ritwickdey.LiveServer",
       "publisherDisplayName": "ritwickdey"
