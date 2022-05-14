@@ -1,0 +1,51 @@
+{
+    "telemetry.machineId": "b6b2cd6fe3a650ab5d78b31d295164a940e796c9a4aee7000682a554202b754a",
+    "theme": "vs-dark",
+    "themeBackground": "#282c34",
+    "windowSplash": {
+        "baseTheme": "vs-dark",
+        "colorInfo": {
+            "foreground": "#cccccc",
+            "background": "#282c34",
+            "editorBackground": "#282c34",
+            "titleBarBackground": "#282c34",
+            "activityBarBackground": "#282c34",
+            "sideBarBackground": "#21252b",
+            "statusBarBackground": "#21252b",
+            "statusBarNoFolderBackground": "#21252b"
+        },
+        "layoutInfo": {
+            "sideBarSide": "left",
+            "editorPartMinWidth": 220,
+            "titleBarHeight": 30,
+            "activityBarWidth": 48,
+            "sideBarWidth": 415,
+            "statusBarHeight": 22,
+            "windowBorder": false
+        }
+    },
+    "windowsState": {
+        "lastActiveWindow": {
+            "folder": "file:///c%3A/Users/rafal/OneDrive/%C3%81rea%20de%20Trabalho/Rafa/Cubos/backend/Aulas/Objetos",
+            "backupPath": "C:\\Users\\rafal\\AppData\\Roaming\\Code\\Backups\\062dfb124ef40a270988885515ec588e",
+            "uiState": {
+                "mode": 0,
+                "x": 10,
+                "y": 0,
+                "width": 765,
+                "height": 720
+            }
+        },
+        "lastPluginDevelopmentHostWindow": {
+            "uiState": {
+                "mode": 1,
+                "x": 201,
+                "y": 30,
+                "width": 1024,
+                "height": 720
+            }
+        },
+        "openedWindows": []
+    },
+    "pickerWorkingDir": "C:\\Users\\rafal\\OneDrive\\Área de Trabalho\\Rafa\\Cubos\\backend\\Aulas"
+}

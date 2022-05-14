@@ -1,1 +1,112 @@
-// Empty
+[
+  {
+    "metadata": {
+      "id": "6e440e71-8ed9-4f25-bb78-4b13096b8a03",
+      "publisherId": "formulahendry.auto-rename-tag",
+      "publisherDisplayName": "formulahendry"
+    },
+    "name": "auto-rename-tag",
+    "publisher": "formulahendry",
+    "version": "0.1.10"
+  },
+  {
+    "metadata": {
+      "id": "5a6e2b21-1d61-4acd-b31b-907f9c23f18a",
+      "publisherId": "CoenraadS.bracket-pair-colorizer-2",
+      "publisherDisplayName": "CoenraadS"
+    },
+    "name": "bracket-pair-colorizer-2",
+    "publisher": "CoenraadS",
+    "version": "0.2.4"
+  },
+  {
+    "metadata": {
+      "id": "e337c67b-55c2-4fef-8949-eb260e7fb7fd",
+      "publisherId": "Shan.code-settings-sync",
+      "publisherDisplayName": "Shan"
+    },
+    "name": "code-settings-sync",
+    "publisher": "Shan",
+    "version": "3.4.3"
+  },
+  {
+    "metadata": {
+      "id": "9d8c32ab-354c-4daf-a9bf-20b633734435",
+      "publisherId": "usernamehw.errorlens",
+      "publisherDisplayName": "usernamehw"
+    },
+    "name": "errorlens",
+    "publisher": "usernamehw",
+    "version": "3.4.2"
+  },
+  {
+    "metadata": {
+      "id": "a2cec723-5349-460d-9de9-0fd1f8d3456f",
+      "publisherId": "xabikos.JavaScriptSnippets",
+      "publisherDisplayName": "xabikos"
+    },
+    "name": "JavaScriptSnippets",
+    "publisher": "xabikos",
+    "version": "1.8.0"
+  },
+  {
+    "metadata": {
+      "id": "b63c44fd-0457-4696-99e9-dbfdf70d77de",
+      "publisherId": "ritwickdey.LiveServer",
+      "publisherDisplayName": "ritwickdey"
+    },
+    "name": "LiveServer",
+    "publisher": "ritwickdey",
+    "version": "5.7.5"
+  },
+  {
+    "metadata": {
+      "id": "3b1db1fc-c7f7-4bd6-9fa4-b499dfa99a8a",
+      "publisherId": "shd101wyy.markdown-preview-enhanced",
+      "publisherDisplayName": "shd101wyy"
+    },
+    "name": "markdown-preview-enhanced",
+    "publisher": "shd101wyy",
+    "version": "0.6.3"
+  },
+  {
+    "metadata": {
+      "id": "5db78037-f674-459f-a236-db622c427c5b",
+      "publisherId": "PKief.material-icon-theme",
+      "publisherDisplayName": "PKief"
+    },
+    "name": "material-icon-theme",
+    "publisher": "PKief",
+    "version": "4.17.0"
+  },
+  {
+    "metadata": {
+      "id": "26a529c9-2654-4b95-a63f-02f6a52429e6",
+      "publisherId": "zhuangtongfa.material-theme",
+      "publisherDisplayName": "zhuangtongfa"
+    },
+    "name": "material-theme",
+    "publisher": "zhuangtongfa",
+    "version": "3.13.29"
+  },
+  {
+    "metadata": {
+      "id": "9ccc1dd7-7ec4-4a46-bd4f-7d7b8b9d322a",
+      "publisherId": "vscode-icons-team.vscode-icons",
+      "publisherDisplayName": "vscode-icons-team"
+    },
+    "name": "vscode-icons",
+    "publisher": "vscode-icons-team",
+    "version": "11.11.0"
+  },
+  {
+    "metadata": {
+      "id": "876e8f93-74d0-4f4f-91b7-34a09f19f444",
+      "publisherId": "VisualStudioExptTeam.vscodeintellicode",
+      "publisherDisplayName": "VisualStudioExptTeam"
+    },
+    "name": "vscodeintellicode",
+    "publisher": "VisualStudioExptTeam",
+    "version": "1.2.21"
+  }
+]
