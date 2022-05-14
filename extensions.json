@@ -51,6 +51,16 @@
   },
   {
     "metadata": {
+      "id": "19804510-b475-4dae-b0f7-6ca08fd1af0c",
+      "publisherId": "dsznajder.es7-react-js-snippets",
+      "publisherDisplayName": "dsznajder"
+    },
+    "name": "es7-react-js-snippets",
+    "publisher": "dsznajder",
+    "version": "4.4.3"
+  },
+  {
+    "metadata": {
       "id": "41aac8eb-b4f4-408d-9708-320d033a17f8",
       "publisherId": "miguelsolorio.fluent-icons",
       "publisherDisplayName": "miguelsolorio"
@@ -58,16 +68,6 @@
     "name": "fluent-icons",
     "publisher": "miguelsolorio",
     "version": "0.0.17"
-  },
-  {
-    "metadata": {
-      "id": "a2cec723-5349-460d-9de9-0fd1f8d3456f",
-      "publisherId": "xabikos.JavaScriptSnippets",
-      "publisherDisplayName": "xabikos"
-    },
-    "name": "JavaScriptSnippets",
-    "publisher": "xabikos",
-    "version": "1.8.0"
   },
   {
     "metadata": {
