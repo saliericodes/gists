@@ -91,6 +91,16 @@
   },
   {
     "metadata": {
+      "id": "aae0701b-111f-49c1-9000-abd37a442f28",
+      "publisherId": "WallabyJs.quokka-vscode",
+      "publisherDisplayName": "WallabyJs"
+    },
+    "name": "quokka-vscode",
+    "publisher": "WallabyJs",
+    "version": "1.0.469"
+  },
+  {
+    "metadata": {
       "id": "9ccc1dd7-7ec4-4a46-bd4f-7d7b8b9d322a",
       "publisherId": "vscode-icons-team.vscode-icons",
       "publisherDisplayName": "vscode-icons-team"
