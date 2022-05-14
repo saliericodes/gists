@@ -101,6 +101,16 @@
   },
   {
     "metadata": {
+      "id": "0c0d1bed-a084-4948-bbca-be49b0315f64",
+      "publisherId": "MeshIntelligentTechnologiesInc.pieces-vscode",
+      "publisherDisplayName": "MeshIntelligentTechnologiesInc"
+    },
+    "name": "pieces-vscode",
+    "publisher": "MeshIntelligentTechnologiesInc",
+    "version": "0.1.7"
+  },
+  {
+    "metadata": {
       "id": "aae0701b-111f-49c1-9000-abd37a442f28",
       "publisherId": "WallabyJs.quokka-vscode",
       "publisherDisplayName": "WallabyJs"
