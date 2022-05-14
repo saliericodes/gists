@@ -111,6 +111,16 @@
   },
   {
     "metadata": {
+      "id": "c919f1b2-3705-431b-9cfd-bb0f6f3c9720",
+      "publisherId": "softwaredotcom.swdc-vscode",
+      "publisherDisplayName": "softwaredotcom"
+    },
+    "name": "swdc-vscode",
+    "publisher": "softwaredotcom",
+    "version": "2.6.30"
+  },
+  {
+    "metadata": {
       "id": "9ccc1dd7-7ec4-4a46-bd4f-7d7b8b9d322a",
       "publisherId": "vscode-icons-team.vscode-icons",
       "publisherDisplayName": "vscode-icons-team"
