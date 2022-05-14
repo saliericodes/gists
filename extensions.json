@@ -41,6 +41,16 @@
   },
   {
     "metadata": {
+      "id": "1ec62ca5-d7f9-4ddb-a882-e8d018c0aefd",
+      "publisherId": "msjsdiag.debugger-for-chrome",
+      "publisherDisplayName": "msjsdiag"
+    },
+    "name": "debugger-for-chrome",
+    "publisher": "msjsdiag",
+    "version": "4.13.0"
+  },
+  {
+    "metadata": {
       "id": "9d8c32ab-354c-4daf-a9bf-20b633734435",
       "publisherId": "usernamehw.errorlens",
       "publisherDisplayName": "usernamehw"
