@@ -1,0 +1,15 @@
+{
+    "editor.formatOnSave": true,
+    "window.zoomLevel": -1,
+    "workbench.iconTheme": "vscode-icons",
+    "workbench.colorTheme": "One Dark Pro",
+    "sync.autoDownload": true,
+    "sync.autoUpload": true,
+    "sync.quietSync": true,
+    "sync.gist": "9a887e09f4378d592f87b3e5f73ce667",
+    "workbench.editorAssociations": {
+        "*.js": "default"
+    },
+    "workbench.productIconTheme": "fluent-icons",
+    "vscode-edge-devtools.fallbackRevision": "@a41122be052fe9616f0def5fe6842fa942930d46"
+}

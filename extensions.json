@@ -151,6 +151,16 @@
   },
   {
     "metadata": {
+      "id": "11cb120c-f665-45bc-a21e-6de8a5685850",
+      "publisherId": "ms-edgedevtools.vscode-edge-devtools",
+      "publisherDisplayName": "ms-edgedevtools"
+    },
+    "name": "vscode-edge-devtools",
+    "publisher": "ms-edgedevtools",
+    "version": "2.0.0"
+  },
+  {
+    "metadata": {
       "id": "9ccc1dd7-7ec4-4a46-bd4f-7d7b8b9d322a",
       "publisherId": "vscode-icons-team.vscode-icons",
       "publisherDisplayName": "vscode-icons-team"
