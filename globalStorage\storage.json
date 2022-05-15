@@ -19,17 +19,17 @@
             "editorPartMinWidth": 220,
             "titleBarHeight": 30,
             "activityBarWidth": 48,
-            "sideBarWidth": 415,
+            "sideBarWidth": 170,
             "statusBarHeight": 22,
             "windowBorder": false
         }
     },
     "windowsState": {
         "lastActiveWindow": {
-            "folder": "file:///c%3A/Users/rafal/OneDrive/%C3%81rea%20de%20Trabalho/Rafa/Cubos/backend/pratica",
-            "backupPath": "C:\\Users\\rafal\\AppData\\Roaming\\Code\\Backups\\adeede107486d37def6b0916921e06ce",
+            "folder": "file:///c%3A/Users/rafal/OneDrive/%C3%81rea%20de%20Trabalho/Rafa/Cubos/backend/exercicios-backend-objetos/01",
+            "backupPath": "C:\\Users\\rafal\\AppData\\Roaming\\Code\\Backups\\a8b30a9db8b7583c05fcd6c1a96cd706",
             "uiState": {
-                "mode": 1,
+                "mode": 0,
                 "x": 10,
                 "y": 0,
                 "width": 765,
